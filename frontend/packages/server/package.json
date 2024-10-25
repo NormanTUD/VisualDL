@@ -39,8 +39,8 @@
         "@visualdl/core": "2.2.1",
         "dotenv": "10.0.0",
         "enhanced-resolve": "5.8.2",
-        "express": "4.17.1",
-        "http-proxy-middleware": "2.0.1",
+        "express": "4.20.0",
+        "http-proxy-middleware": "2.0.7",
         "pm2": "5.1.1"
     },
     "devDependencies": {
